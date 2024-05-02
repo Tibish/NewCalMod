@@ -1,0 +1,11 @@
+{
+  "item.newcalmod.sabre_dabattis": "Sabre d'Abattis",
+  "item.newcalmod.nickel": "Nickel",
+  "item.newcalmod.raw_nickel": "Raw Nickel",
+
+  "block.newcalmod.nickel_block": "Block of Nickel",
+  "block.newcalmod.nickel_ore": "Nickel Ore",
+  "block.newcalmod.deepslate_nickel_ore": "Deepslate Nickel Ore",
+  "block.newcalmod.nether_nickel_ore": "Nether Nickel Ore",
+  "block.newcalmod.end_nickel_ore": "End Nickel Ore"
+}

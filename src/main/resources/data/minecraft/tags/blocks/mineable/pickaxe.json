@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "newcalmod:nickel_block",
+    "newcalmod:nickel_ore",
+    "newcalmod:deepslate_nickel_ore",
+    "newcalmod:nether_nickel_ore",
+    "newcalmod:end_nickel_ore"
+
+  ]
+}

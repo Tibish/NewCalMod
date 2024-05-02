@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "newcalmod:raw_nickel"
+  },
+  "result": "newcalmod:nickel",
+  "experience": 0,
+  "cookingtime": 200
+}

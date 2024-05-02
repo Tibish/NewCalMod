@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "newcalmod:nickel_block"
+    }
+  ],
+  "result": {
+    "item": "newcalmod:nickel",
+    "count": 9
+  }
+}
